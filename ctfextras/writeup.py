@@ -40,7 +40,7 @@ def generate(name: str, category: str = "", points: str = "", difficulty: str = 
     if flag:
         lines += ["## Flag", "```", flag, "```", ""]
 
-    lines += ["---", f"_Writeup by {author} — {date.today().isoformat()}_"]
+    lines += ["---", f"_Writeup by {author} - {date.today().isoformat()}_"]
     return "\n".join(lines)
 
 
