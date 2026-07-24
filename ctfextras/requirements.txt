@@ -1,0 +1,2 @@
+# No third-party packages required. Standard library only (struct, datetime).
+# Requires Python 3.8+.  (BMP images only; PNG/JPEG stego would need Pillow.)
