@@ -1,5 +1,8 @@
 # CTF Extras Toolkit
 
+[![CI](https://github.com/JIMIT-PARIKH-01/ctf-extras-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/JIMIT-PARIKH-01/ctf-extras-toolkit/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+
 Two CTF helpers — **dependency-free**, GUI + CLI.
 
 1. **LSB steganography** — hide/extract a text message in the least-significant bits of a
