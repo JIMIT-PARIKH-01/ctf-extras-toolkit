@@ -12,6 +12,8 @@ Two CTF helpers — **dependency-free**, GUI + CLI.
 Standard library only (`struct`, `datetime`). Python 3.8+.
 (BMP keeps stego dependency-free; PNG/JPEG would need Pillow.)
 
+![demo](docs/demo.png)
+
 ## Run
 ```powershell
 python ctfextras/gui.py           # GUI (tabs: Steganography / Writeup), or run.bat
